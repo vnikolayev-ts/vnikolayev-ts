@@ -48,10 +48,11 @@ Critical Thinking   ████████████████████
 # Viktor Nikolayev's Profile
 
 ## Programming Skills
-[![Programming Skills](https://skillicons.dev/icons?i=react,nodejs,python,java,php,javascript,mysql,typescript,xml,json,git,bash)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,python,java,php,javascript,mysql,cpp,cs,dotnet" alt="Programming Skills" />
 
-## Technologies
-[![Technologies](https://skillicons.dev/icons?i=aws,docker,linux,ci)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,prometheus,grafana" alt="Technologies" />
 
-## Other Skills
-[![Other Skills](https://skillicons.dev/icons?i=scrum)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=dotnet,git,vscode,eclipse,azure,aws" alt="Miscellaneous Skills" />
+</p>
+
