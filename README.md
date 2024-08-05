@@ -31,5 +31,7 @@ new Person({
 }).introduce();
 
 
+```cmd
 D:\lab\Viktor-Nikolayev> node index.js
 Hi, my name is Viktor Nikolayev, I'm a Full Stack Developer from Mannheim, Germany.
+```
