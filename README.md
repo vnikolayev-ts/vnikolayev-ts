@@ -36,7 +36,7 @@ new Person({
 ```cmd
 Hi, my name is Viktor Nikolayev, I'm a Full Stack Developer from Mannheim, Germany
 ```
-
+# Viktor Nikolayev's Profile
 
 ```text
 Problem Solving     ████████░░░░░░░░░░░░░░░░░░░░░░░░  100%  
@@ -45,14 +45,12 @@ Debugging           ████████████████████
 Critical Thinking   ████████████████████████████████  300%  
 ```
 
-# Viktor Nikolayev's Profile
 
-## Programming Skills
+
+## My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,python,java,php,javascript,mysql,cpp,cs,dotnet" alt="Programming Skills" />
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,python,java,php,javascript,mysql,cpp,cs,dotnet" alt="Programming Skills" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,prometheus,grafana" alt="Technologies" />
-
   <img src="https://skillicons.dev/icons?i=dotnet,git,vscode,eclipse,azure,aws" alt="Miscellaneous Skills" />
 </p>
 
