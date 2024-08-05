@@ -1,9 +1,7 @@
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <div align="center">
   
 ![Banner](/banner.jpg)
+
 
 ![Followers](https://img.shields.io/github/followers/vnikolayev-ts?label=Followers) ![Stars](https://img.shields.io/github/stars/vnikolayev-ts?label=Stars)
 
@@ -12,11 +10,7 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<picture>
-<a href="https://github.com/vnikolayev-ts.png" alt="Developer">
-<img src="https://images.weserv.nl/?url=https://github.com/vnikolayev-ts.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
-</a>
-</picture>
+
 
 ```js
 "use creativity";
