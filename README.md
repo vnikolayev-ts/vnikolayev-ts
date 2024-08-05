@@ -29,9 +29,29 @@ new Person({
   website: "https://nikolayev.de",
   junior: !!!false,
 }).introduce();
+```
+
 
 
 ```cmd
-D:\lab\Viktor-Nikolayev> node index.js
-Hi, my name is Viktor Nikolayev, I'm a Full Stack Developer from Mannheim, Germany.
+Hi, my name is Viktor Nikolayev, I'm a Full Stack Developer from Mannheim, Germany
 ```
+
+
+```text
+Problem Solving     ████████░░░░░░░░░░░░░░░░░░░░░░░░  100%  
+Hard Work           ████████████████░░░░░░░░░░░░░░░░  150%  
+Debugging           ██████████████████████░░░░░░░░░░  200%  
+Critical Thinking   ████████████████████████████████  300%  
+```
+
+# Viktor Nikolayev's Profile
+
+## Programming Skills
+[![Programming Skills](https://skillicons.dev/icons?i=react,nodejs,python,java,php,javascript,mysql,typescript,xml,json,git,bash)](https://skillicons.dev)
+
+## Technologies
+[![Technologies](https://skillicons.dev/icons?i=aws,docker,linux,ci)](https://skillicons.dev)
+
+## Other Skills
+[![Other Skills](https://skillicons.dev/icons?i=scrum)](https://skillicons.dev)
