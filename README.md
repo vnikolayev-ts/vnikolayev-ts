@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Banner](/assets/images/banner.png)
+![Banner](/banner.jpg)
 
 ![Followers](https://img.shields.io/github/followers/vnikolayev-ts?label=Followers) ![Stars](https://img.shields.io/github/stars/vnikolayev-ts?label=Stars)
 
